@@ -1,0 +1,6 @@
+{
+  "name": "Mondepro Ultra",
+  "description": "منصة مباريات رياضية متطورة مع مشغل فيديو مدمج، بروكسي فائق السرعة، لوحة تحكم المشرفين ونظام تقارير الروابط",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
